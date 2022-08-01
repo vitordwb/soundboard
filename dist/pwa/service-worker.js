@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.a5a0da1bd2603616e6cdd62e42ba65ab.js"
+  "precache-manifest.cd7c5a618dbfc1ae10ba96bdc6a13f90.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "instantfun"});
